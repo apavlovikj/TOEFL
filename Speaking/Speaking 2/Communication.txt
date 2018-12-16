@@ -1,0 +1,5 @@
+Telephones
+
+1 -> Direct
+2 -> Instantaneous
+3 -> No ambiguity
