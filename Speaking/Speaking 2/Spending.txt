@@ -1,0 +1,4 @@
+Spend it
+
+1 -> Small amount
+2 -> No point in saving little amount

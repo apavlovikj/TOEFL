@@ -1,0 +1,5 @@
+Outdoor
+
+1 -> Fresh Air
+2 -> Claustrophobic
+3 -> Beeing in nature
